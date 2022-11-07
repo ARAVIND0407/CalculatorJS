@@ -6,3 +6,6 @@ function equ(){
     var result=eval(statment)
     document.getElementById("inpt").value = result;
 }
+function clearDisplay(){
+    document.getElementById('inpt').value = ""
+}
