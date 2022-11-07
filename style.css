@@ -31,7 +31,7 @@
     align-items: center;
     justify-content: center;
 }
-.screen{
+#screen{
     width: 95%;
     height: 80px;
     background: white;
@@ -51,6 +51,7 @@
     width: 98%;
     height: 95%;
     margin: 2px 3px;
+    font-size: 40px;
     pointer-events: none;
 }
 .btn{
