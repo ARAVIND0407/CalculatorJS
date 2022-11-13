@@ -109,8 +109,8 @@ body {
         display: grid;
     }
     .cls {
-        margin-top: -180px;
-        margin-left: 20px;
+        margin-top: -270px;
+        margin-left: 12px;
     }
     .calcframe{
         width: 95%;
@@ -118,12 +118,14 @@ body {
         border-radius: 20px;
     }
     .btnholder{
-        width: 92%;
-        margin-left: 15px;
+        margin-left: 10px;
         justify-self: center;
     }
     .btn{
-        width: 75px;
+        width: 80px;
+    }
+    #title{
+        margin: 10px 10px 0;
     }
 
 }
